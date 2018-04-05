@@ -1,0 +1,27 @@
+{
+  "name": "asynchronouscode",
+  "version": "1.0.0",
+  "description": "Demonstração de código assíncrono usando Node.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/claudineyjr/asynchronousCode.git"
+  },
+  "keywords": [
+    "callback",
+    "promise",
+    "async",
+    "await",
+    "node.js",
+    "javascript"
+  ],
+  "author": "Claudiney Junior <claudiney.jr@caquicoders.com.br>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/claudineyjr/asynchronousCode/issues"
+  },
+  "homepage": "https://github.com/claudineyjr/asynchronousCode#readme"
+}
